@@ -3,6 +3,11 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+
+# Untracked folder for untracked files
+not_tracked/*
+
+
 # C extensions
 *.so
 
